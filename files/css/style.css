@@ -1,0 +1,45 @@
+body{
+    background-color: white;
+    font-family: 'Segoe UI';
+}
+
+#container{
+    background-color: blue;
+    width: 800px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#main{
+    background-color: blanchedalmond;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+}
+
+#content{
+    padding: 10px;
+
+}
+
+nav{
+    color: white;
+    width: 180px;
+    height: 180px;
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#nav.selected{
+    font-weight: bold;
+}
+
+#footer{
+    color:white;
+    clear: both;
+}
