@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with someone.
 - 💬 Ask me about ...
 - 📫 How to reach me: On Twitter
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him, Straight
 - ⚡ Fun fact: My username is actually my Razer ID with adding "The" and removes "Silver" and number 889.
 
