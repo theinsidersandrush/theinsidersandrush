@@ -1,0 +1,12 @@
+#box.home_EN-INTL {
+    margin: 1px;
+    padding-top: 4px;
+    padding-left: 6px;
+    border: 2.5px solid black;
+}
+
+ul#menu {
+    display:inline-block;
+    text-align: center;
+    padding-left: 3%;
+}
