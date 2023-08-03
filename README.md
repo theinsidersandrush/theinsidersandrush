@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: On Twitter
 - 😄 Pronouns: He/Him, Straight
-- ⚡ Fun fact: My username is actually my Razer ID with adding "The" and removes "Silver" and number 889.
+- ⚡ Fact: also dope on the mic
 
