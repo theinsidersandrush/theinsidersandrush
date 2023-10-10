@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on someone that has more experiences.
 - 🤔 I’m looking for help with someone.
 - 💬 Ask me about ...
-- 📫 How to reach me: On Twitter
+- 📫 How to reach me: On Twitter (don't call it X. I don't like it.)
 - 😄 Pronouns: He/Him, Straight
 - ⚡ Fact: also dope on the mic
 
