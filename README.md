@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him, Straight
 - ⚡ Fact: also dope on the mic
 
+__Want to know more about me? Check out [here](https://web.archive.org/web/20000301045908/http://x.com/).__
