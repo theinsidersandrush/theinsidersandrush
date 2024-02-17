@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my own Minecraft mod and HTML webpage for fun
-- 🌱 I’m currently learning JavaScript (love and hate), Java and C++.
+- 🌱 I’m currently learning JavaScript (love and hate), Java, C# and C++.
 - 👯 I’m looking to collaborate on someone that has more experiences.
 - 🤔 I’m looking for help with someone.
 - 💬 Ask me about: Why do trees talk?
