@@ -10,6 +10,14 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
+#topnav{
+    background-color: black;
+    border: 3px solid white;
+    width: auto;
+    margin: 1%;
+    overflow: hidden;
+    }      
+    
 #main{
     background-color: blanchedalmond;
     color: black;
@@ -40,6 +48,6 @@ nav{
 }
 
 #footer{
-    color:white;
+    color:rgb(0, 0, 0);
     clear: both;
 }
