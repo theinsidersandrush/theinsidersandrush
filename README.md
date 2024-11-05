@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with someone.
 - 💬 Ask me about: Why do trees talk?
 - 📫 How to reach me: On [Twitter](https://twitter.com/InsiderSandrush?mx=1) (not "X"), [Bluesky](https://bsky.app/profile/theinsidersandrush.bsky.social) and [Mastodon](https://mastodon.social/@theinsidersandrush@pawoo.net)
-- 😄 Pronouns: He/Him, Straight
+- 😄 Pronouns: He/Him, They/Them
 - ⚡ Fact:
   - never used AI (generative video, audio, texts, speech and images) because [Thomas Bangalter told me I shouldn't](https://www.bbc.com/news/entertainment-arts-65140938).
   - also dope on the mic
