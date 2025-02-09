@@ -1,6 +1,8 @@
-### Hi there 👋
+<p align="center" width="auto">
+    <img width="auto" title="Header image" alt="Header image" src="github-header-image-new.png"> 
+</p>
 
-![Header image](github-header-image.png) 
+### Hi there 👋
 
 - 🔭 I’m currently working on my own Minecraft mod, HTML webpage (and more) for fun
 - 🌱 I’m currently learning HTML basics, Java, C# and C++.
