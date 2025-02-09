@@ -1,3 +1,5 @@
+[This is a joke licence. Please ignore. This repo is licenced under this licence prior to commit #84ab5a0.]
+
 /*
  *                THE STRONGEST PUBLIC LICENSE
  *                  Draft 1, November 2010
