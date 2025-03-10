@@ -11,7 +11,7 @@
 - 💬 Ask me about: h
 - 📫 How to reach me: You can contact me via [Bluesky](https://bsky.app/profile/did:plc:zdtbxbe2lvxc3aiyplqivtyd), and [Mastodon](https://mastodon.social/@theinsidersandrush@pawoo.net)
 - 😄 Pronouns: He/Him, They/Them
-<!--- ⚡ Fact:-->
+- ⚡ Fact: The profile picture are actually a character named Alex from The Golden Age of Adventures, a comic series made by a Malaysian book publisher, Gempak Starz. It was written by Tadatada (artist), illustrations goes to Solar Team (artist group).
 
 
 
